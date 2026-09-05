@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Aleksandr Krasovski.
-- 👀 I’m a programmer and interested in Javascript.
-- 💞️ I'm open to cooperate.
-- 📫 e-mail: aleksandr.krasovski@gmail.com
+- 👋 Hi.
+- 👀 I’m a programmer and now interested in Typescript.
 
 <!---
 Aleksandr Krasovski/Aleksandr Krasovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
